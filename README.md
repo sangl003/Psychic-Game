@@ -2,7 +2,7 @@
 
 1. A game app to randomly picks a letter, and the user has to guess which letter the app chose by hittin the keys on keyboard.
 
-2.. Guess what letter I'm thinking of and track Wins and Losses.
+2. Guess what letter I'm thinking of and track Wins and Losses.
 
 3. Wins: (# of times the user has guessed the letter correctly)
 
